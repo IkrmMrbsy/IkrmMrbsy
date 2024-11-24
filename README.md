@@ -14,6 +14,24 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
 
 ---
 
+## 📊 **GitHub Stats**
+
+### **My GitHub Stats**
+![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&theme=tokyonight&hide_title=true)
+
+---
+
+### **More Stats**  
+<div style="display: flex; gap: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkrmMrbsy&theme=tokyonight" alt="Profile Summary" width="400"/>
+</div>
+
+---
+
 ## 🚀 **Tech Stack**
 Here are some tools and technologies that fuel my development journey:  
 
@@ -41,28 +59,7 @@ Here are some tools and technologies that fuel my development journey:
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 **GitHub Stats**
-
-### **My GitHub Stats**
-![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
-
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&theme=tokyonight&hide_title=true)
-
 ---
-
-### **More Stats**  
-<div style="display: flex; gap: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=tokyonight" alt="GitHub Streak" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkrmMrbsy&theme=tokyonight" alt="Profile Summary" width="400"/>
-</div>
-
----
-
-### **Contribution Graph**
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=IkrmMrbsy&theme=tokyonight&area=true)
-
-
 
 ## 📫 **Connect With Me**
 I’m always open to collaboration, feedback, or just a friendly chat!  
