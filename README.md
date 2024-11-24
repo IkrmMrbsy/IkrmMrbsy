@@ -5,8 +5,8 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
 ---
 
 ## ✨ **Who Am I?**
-- 🔧 Experienced in **Golang**, **JavaScript**, **C#**, and modern frameworks.
-- 💡 A tech enthusiast exploring the world of **Spring Boot**, **React.js**, and advanced database systems.
+- 🔧 Experienced in **Java**, **JavaScript**, **C#**, and modern frameworks.
+- 💡 A tech enthusiast exploring the world of **Spring Boot**, and advanced database systems.
 - 📈 Focused on creating scalable, well-architected applications.
 - 🛠️ Combining **backend precision** with **frontend creativity** to craft engaging web apps.
 
