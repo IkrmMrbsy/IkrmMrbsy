@@ -1,68 +1,84 @@
-# 👋 Welcome to My GitHub, I'm **Ikram**! 🚀
+# 👋 Hi there, I'm Ikram!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Problem+Solver;System+Builder;Experience+Creator" alt="Typing SVG" />
+</div>
+
+## 💫 About Me
 
 I'm a **passionate Fullstack Web Developer** with a love for problem-solving, building efficient systems, and creating delightful user experiences. Here, you'll find a mix of backend magic, frontend finesse, and IoT explorations!
 
----
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## ✨ **Who Am I?**
-- 🔧 Experienced in **Java**, **JavaScript**, **C#**, and modern frameworks.
-- 💡 A tech enthusiast exploring the world of **Spring Boot**, and advanced database systems.
-- 📈 Focused on creating scalable, well-architected applications.
-- 🛠️ Combining **backend precision** with **frontend creativity** to craft engaging web apps.
+## 💻 Tech Stack
 
-> “**Code is my canvas, and the keyboard is my brush.**” 🎨
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 **GitHub Stats**
+</div>
 
-### **My GitHub Stats**
-![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+## 📊 GitHub Stats
 
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&theme=tokyonight&hide_title=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ikram's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
----
+## 🏆 GitHub Trophies
 
-### **More Stats**  
-<div style="display: flex; gap: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=tokyonight" alt="GitHub Streak" width="400"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IkrmMrbsy&theme=tokyonight" alt="Profile Summary" width="400"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IkrmMrbsy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## ✨ Featured Projects
+
+<div align="center">
+  <a href="https://github.com/IkrmMrbsy/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkrmMrbsy&repo=project-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/IkrmMrbsy/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkrmMrbsy&repo=project-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkrmMrbsy)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IkrmMrbsy)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+<div align="center">
+  <p>I'm always open to collaborating on interesting projects! Feel free to reach out if you'd like to work together or just chat about web development.</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=IkrmMrbsy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
-## 🚀 **Tech Stack**
-Here are some tools and technologies that fuel my development journey:  
+<div align="center">
+  
+⭐️ From [IkrmMrbsy](https://github.com/IkrmMrbsy)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Lombok](https://img.shields.io/badge/-Lombok-2C2255?style=for-the-badge&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Laragon](https://img.shields.io/badge/-Laragon-1F1F1F?style=for-the-badge&logo=laragon&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📫 **Connect With Me**
-I’m always open to collaboration, feedback, or just a friendly chat!  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikrammarbasy17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-marbasy-9391b129a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ikrmmrbsy.github.io/MyPortofolio/)
-
----
-
-⭐️ **_Thank you for stopping by! Let's code something amazing together._** ✨
+</div>
