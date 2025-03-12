@@ -47,7 +47,7 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
   <img src="https://github-profile-trophy.vercel.app/?username=IkrmMrbsy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## ✨ Featured Projects
+<!--## ✨ Featured Projects
 
 <div align="center">
   <a href="https://github.com/IkrmMrbsy/project-1">
@@ -56,7 +56,7 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
   <a href="https://github.com/IkrmMrbsy/project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkrmMrbsy&repo=project-2&theme=tokyonight&hide_border=true" />
   </a>
-</div>
+</div>-->
 
 ## 🤝 Let's Connect & Collaborate!
 
