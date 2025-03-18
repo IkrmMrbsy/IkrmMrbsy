@@ -62,7 +62,7 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-marbasy-9391b129a/)
+<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-marbasy-9391b129a/)-->
 <!--[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)-->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikrammarbasy17@gmail.com)
 
