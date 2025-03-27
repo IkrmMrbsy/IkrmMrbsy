@@ -71,7 +71,7 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
 <div align="center">
   <p>I'm always open to collaborating on interesting projects! Feel free to reach out if you'd like to work together or just chat about web development.</p>
   
-  <img src="https://komarev.com/ghpvc/?username=IkrmMrbsy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <!--<img src="https://komarev.com/ghpvc/?username=IkrmMrbsy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />-->
 </div>
 
 ---
