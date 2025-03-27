@@ -38,7 +38,7 @@ I'm a **passionate Fullstack Web Developer** with a love for problem-solving, bu
   <br/>
  <img src="https://streak-stats.demolab.com/?user=IkrmMrbsy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <!--## 🏆 GitHub Trophies
