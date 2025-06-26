@@ -78,7 +78,8 @@ console.log(ikram.greeting()); // "Let's build something amazing together!"
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=IkrmMrbsy&theme=react&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F8D866&sideNums=F8D866)](https://git.io/streak-stats)
+<!-- Coba ganti dari demolab ke herokuapp -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=react&hide_border=true)
   
 </div>
 
