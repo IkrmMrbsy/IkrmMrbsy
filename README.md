@@ -5,14 +5,14 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=transparent&stroke=6366F1&fire=6366F1&ring=6366F1&sideNums=71717A&currStreakNum=6366F1" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=38BDF8&icon_color=FACC15&text_color=94A3B8&bg_color=1E293B&hide_border=true" />
+  
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=tokyonight&background=1E293B&fire=FACC15&ring=38BDF8&currStreakLabel=38BDF8&stroke=38BDF8&currStreakNum=FACC15&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=38BDF8&text_color=94A3B8&bg_color=1E293B&hide_border=true" />
 </div>
-
 ---
 
 ### 🤝 Let's Connect
