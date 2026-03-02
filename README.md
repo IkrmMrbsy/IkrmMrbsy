@@ -5,8 +5,12 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=IkrmMrbsy&theme=transparent&stroke=6366F1&fire=6366F1&ring=6366F1&sideNums=71717A&currStreakNum=6366F1" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" />
 </div>
 
 ---
