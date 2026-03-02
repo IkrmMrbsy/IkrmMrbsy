@@ -4,8 +4,10 @@
 ---
 
 ### 📊 GitHub Activity
-[![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=71717A)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=71717A)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" alt="Top Langs" height="150" />
+</div>
 
 ---
 
