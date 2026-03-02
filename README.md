@@ -5,8 +5,8 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" alt="Top Langs" height="150" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IkrmMrbsy&show_icons=true&title_color=6366F1&icon_color=6366F1&text_color=71717A&bg_color=00000000" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IkrmMrbsy&layout=compact&title_color=6366F1&text_color=71717A&bg_color=00000000" />
 </div>
 
 ---
